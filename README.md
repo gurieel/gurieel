@@ -14,24 +14,3 @@
    <a href="https://www.behance.net/gurieel" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" /></a>
    <a href="www.instagram.com/guriel.exe/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
-
-<script>
-        function textEffect() {
-            const textElement = document.getElementById('hello-world');
-            const originalText = textElement.textContent;
-            const characters = ['!', '@', '#', '$', '%', '^', '&', '*', '(', ')', '-', '_', '=', '+', '[', ']', '{', '}', '\\', '|', ';', ':', '"', "'", ',', '<', '>', '.', '/', '?', '`', '~'];
-
-            let newText = '';
-            for (let i = 0; i < originalText.length; i++) {
-                const randomIndex = Math.floor(Math.random() * characters.length);
-                newText += characters[randomIndex];
-            }
-
-            textElement.textContent = newText;
-            setTimeout(() => {
-                textElement.textContent = originalText;
-            }, 1000);
-        }
-
-        setInterval(textEffect, 10000);
-    </script>
