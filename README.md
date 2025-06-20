@@ -9,6 +9,8 @@ Currently studying Systems Analysis and Development.
 </p>
 
 <br>
+<br>
+<br>
 
 <h1>📣 Social media</h1>
 <div align="start">
@@ -17,6 +19,8 @@ Currently studying Systems Analysis and Development.
    <a href="https://www.instagram.com/guriel.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
+<br>
+<br>
 <br>
 
 <h1>🚀 Skills</h1>
@@ -50,9 +54,8 @@ Currently studying Systems Analysis and Development.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
-
-
+<br>
+<br>
 <br>
 
 <h1>💻 GitHub Stats</h1>
